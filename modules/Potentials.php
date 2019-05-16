@@ -46,8 +46,8 @@ $languageStrings = array(
 	'Perception Analysis'=>'Analise Percepção',
 	'Proposal/Price Quote'=>'Proposta',
 	'Negotiation/Review'=>'Negociação',
-	'Closed Won'=>'Fechado Vencido',
-	'Closed Lost'=>'Fechado Perdido',
+	'Closed Won'=>'Ganhamos',
+	'Closed Lost'=>'Perdemos',
 
 	'--None--'=>'--Nada--',
 	'Existing Business'=>'Negócio Existente',
@@ -63,7 +63,7 @@ $languageStrings = array(
 	'LBL_CREATE_PROJECT' => 'Criar Projeto',
     'LBL_POTENTIALS_FIELD_MAPPING' => 'Mapeamento Campos Oportunidades',
     'LBL_CONVERT_POTENTIALS_ERROR' => 'Você deve habilitar o Projeto para converter a Oportunidade',
-    'LBL_POTENTIALS_FIELD_MAPPING_INCOMPLETE' => 'O Mapeamento dos Campos da Oportunidade está incompleto (Configurações > Gerenciador Módulos > Oportunidade > Mapeamento Campos Oportunidade)',
+    'LBL_POTENTIALS_FIELD_MAPPING_INCOMPLETE' => 'O Mapeamento dos Campos da Oportunidade está incompleto (Configurações > Configurações CRM > Marketing e Vendas > Mapeamento de Oportunidade para Projetos)',
     
     //Potentials Custom Field Mapping
 	'LBL_CUSTOM_FIELD_MAPPING'=> 'Mapeando Oportunidade para Projeto',
