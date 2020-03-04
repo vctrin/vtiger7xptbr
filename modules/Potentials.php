@@ -66,7 +66,7 @@ $languageStrings = array(
     'LBL_POTENTIALS_FIELD_MAPPING_INCOMPLETE' => 'O Mapeamento dos Campos da Oportunidade está incompleto (Configurações > Configurações CRM > Marketing e Vendas > Mapeamento de Oportunidade para Projetos)',
     
     //Potentials Custom Field Mapping
-	'LBL_CUSTOM_FIELD_MAPPING'=> 'Mapeando Oportunidade para Projeto',
+	'LBL_CUSTOM_FIELD_MAPPING'=> 'Mapear para Projeto',
 );
 
 $jsLanguageStrings = array(
